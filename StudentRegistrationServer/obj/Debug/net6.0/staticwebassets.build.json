@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "szWUtWYFoLV6lkgyYeyf+EgrHM33YIPKrubxJUS3Uvg=",
+  "Source": "StudentRegistrationServer",
+  "BasePath": "_content/StudentRegistrationServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

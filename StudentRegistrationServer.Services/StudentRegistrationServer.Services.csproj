@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentRegistrationServer.DataAccess\StudentRegistrationServer.DataAccess.csproj" />
+    <ProjectReference Include="..\StudentRegistrationServer.Models\StudentRegistrationServer.Models.csproj" />
+  </ItemGroup>
+
+</Project>
